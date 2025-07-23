@@ -19,7 +19,7 @@ This slider helps you to change the cart weight. The change will be in grams.
 
 4. **Change pointer position:**
 
-This slider is used to change the position of the pointer. The pointer is used tomeasure and calculate the time for reaching the pointer position.
+This slider is used to change the position of the pointer. The pointer is used to measure and calculate the time for reaching the pointer position.
 
 5. **Start Button:**
 
