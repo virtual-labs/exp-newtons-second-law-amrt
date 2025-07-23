@@ -7,7 +7,7 @@
 #### Variable Region:
 1. **Change Friction:**
 
-This slider helps you to change the Co efficient of Friction of the surface.
+This slider helps you change the Coefficient of Friction of the surface.
 
 2. **Change hanging weight:**
 
