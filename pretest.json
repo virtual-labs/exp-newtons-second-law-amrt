@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The product of mass and velocity is called",
+      "answers": {
+        "a": "Force",
+        "b": "Momentum",
+        "c": "Torque",
+        "d": "Work"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When there is no external force acts on the system total linear momentum is conserved- What is this statement",
+      "answers": {
+        "a": "Law of conservation of momentum",
+        "b": "Law of conservation of force",
+        "c": "Law of conservation of mass",
+        "d": "Law of conservation of energy"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Statement of Newton's second law",
+      "answers": {
+        "a": "F = m(dv/dt)",
+        "b": "F = ma",
+        "c": "F = dp/dt",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a body moves over a frictional surface, its acceleration",
+      "answers": {
+        "a": "Decreases with increase of friction",
+        "b": "Increases with increase of friction",
+        "c": "Is independent of frictional force",
+        "d": "Non of the above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In uniformly accelerated motion, the shape of the displacement- time graph is",
+      "answers": {
+        "a": "Hyperbola",
+        "b": "Parabola",
+        "c": "Straight line",
+        "d": "No fixed shape"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
